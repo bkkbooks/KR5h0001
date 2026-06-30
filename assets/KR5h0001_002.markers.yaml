@@ -1,0 +1,258 @@
+canonical_identifier: bkk:krp/KR5h0001/bkk/v1/markers/2
+seq: 2
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5h0001_HFL_002-001a01}
+  - {type: variant, offset: 0, length: 3, content: 太上中, CK-KZ: 駱駝負重之苦或作蟒蛇積毒之苦或作魚鱉漂淪之苦或作飛禽羅網之苦或作猪狗污賤之苦或作驢騾償債之苦或作牛畜佈種之苦或作賤類勞役之苦仙身諸善男子於我化後謹能受持讀誦此經今對}
+  - {type: page-break, offset: 0, content: '', id: KR5h0001_CK-KZ_01p003b, image: JY019/CK-KZ_JY019_01p003b.png}
+  - {type: variant, offset: 0, length: 3, content: 太上中, CK-KZ-jye: 駱駝負重之苦或作蟒蛇積毒之苦或作魚鱉漂淪之苦或作飛禽羅網之苦或作猪狗污賤之苦或作驢騾償債之苦或作牛畜佈種之苦或作賤類勞役之苦仙身諸善男子於我化後謹能受持讀誦此經今對}
+  - {type: variant, offset: 0, length: 3, content: 太上中, YP-C: 駱駝負重之苦或作蟒蛇積毒之苦或作魚鱉漂淪之苦或作飛禽羅網之苦或作猪狗污賤之苦或作驢騾償債之苦或作牛畜佈種之苦或作賤類勞役之苦仙身諸善男子於我化後謹能受持讀誦此經今對}
+  - {type: page-break, offset: 0, content: '', id: KR5h0001_YP-C_03diji-08-0003b, image: JY019/03diji-08-0003b.png}
+  - {type: page-break, offset: 0, content: '', id: KR5h0001_SJB_002-340559c, image: sjb/34/340559c.png}
+  - {type: variant, offset: 4, length: 4, content: 妙法蓮華, CK-KZ: 前自說誓言此}
+  - {type: variant, offset: 4, length: 4, content: 妙法蓮華, CK-KZ-jye: 前自說誓言此}
+  - {type: variant, offset: 4, length: 4, content: 妙法蓮華, YP-C: 前自說誓言此}
+  - {type: variant, offset: 9, length: 1, content: 卷, CK-KZ: 難持若暫持者我則歡喜諸仙亦然如是}
+  - {type: variant, offset: 9, length: 3, content: 卷之二, CK-KZ-jye: 難持若暫持者我則歡喜}
+  - {type: variant, offset: 9, length: 1, content: 卷, YP-C: 難持若暫持者我則歡喜諸仙亦然如是}
+  - {type: variant, offset: 11, length: 1, content: 二, CK-KZ: 人天道所歎是則勇猛是名修眞行慈之行則爲疾得諸仙道果能於來世持念此經是眞神仙住湻善地大道所化能解其義是諸天人世間之眼於恐畏世能廣爲說一切諸仙皆應供養}
+  - {type: variant, offset: 11, length: 1, content: 二, YP-C: 人天道所歎是則勇猛是名修眞行慈之行則爲疾得諸仙道果能於來世持念此經是眞神仙住湻善地大道所化能解其義是諸天人世間之眼於恐畏世能廣爲說一切諸仙皆應供養}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5h0001_HFL_002-001a02}
+  - {type: indent, offset: 0, content: 　　, id: KR5h0001_krp_002-bkkind1}
+  - {type: variant, offset: 2, length: 0, content: '', CK-KZ-jye: 亦然如是之人天道所歎是則勇猛是名修眞行慈之行則爲疾得諸仙道果能於來世持念此經是眞神仙住湻善地}
+  - {type: variant, offset: 4, length: 3, content: 品第三, CK-KZ-jye: 所化能解其義是諸天人世間之眼於恐畏世能廣爲說一切諸仙皆應供養}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl2}
+  - {type: line-break, offset: 7, content: '', id: KR5h0001_HFL_002-001a03}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl3}
+  - {type: line-break, offset: 9, content: '', id: KR5h0001_HFL_002-001a04}
+  - {type: page-break, offset: 9, content: '', id: KR5h0001_CK-KZ_01p004a, image: JY019/CK-KZ_JY019_01p004a.png}
+  - {type: page-break, offset: 9, content: '', id: KR5h0001_YP-C_03diji-08-0004a, image: JY019/03diji-08-0004a.png}
+  - {type: variant, offset: 16, length: 1, content: 衆, CK-KZ: 眾}
+  - {type: variant, offset: 16, length: 1, content: 衆, CK-KZ-jye: 眾}
+  - {type: variant, offset: 16, length: 1, content: 衆, YP-C: 眾}
+  - {type: variant, offset: 18, length: 1, content: 扵, CK-KZ: 於}
+  - {type: variant, offset: 18, length: 1, content: 扵, CK-KZ-jye: 於}
+  - {type: variant, offset: 18, length: 1, content: 扵, YP-C: 於}
+  - {type: substitution, offset: 18, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
+  - {type: variant, offset: 19, length: 1, content: 徃, CK-KZ: 往}
+  - {type: variant, offset: 19, length: 1, content: 徃, CK-KZ-jye: 往}
+  - {type: variant, offset: 19, length: 1, content: 徃, YP-C: 往}
+  - {type: substitution, offset: 19, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0548}}
+  - {type: variant, offset: 25, length: 1, content: 即, CK-KZ: 卽}
+  - {type: variant, offset: 25, length: 1, content: 即, CK-KZ-jye: 卽}
+  - {type: variant, offset: 25, length: 1, content: 即, YP-C: 卽}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl4}
+  - {type: line-break, offset: 26, content: '', id: KR5h0001_HFL_002-001a05}
+  - {type: variant, offset: 29, length: 1, content: 扵, CK-KZ: 於}
+  - {type: variant, offset: 29, length: 1, content: 扵, CK-KZ-jye: 於}
+  - {type: variant, offset: 29, length: 1, content: 扵, YP-C: 於}
+  - {type: substitution, offset: 29, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
+  - {type: variant, offset: 40, length: 1, content: 遥, CK-KZ: 遙}
+  - {type: variant, offset: 40, length: 1, content: 遥, CK-KZ-jye: 遙}
+  - {type: variant, offset: 40, length: 1, content: 遥, YP-C: 遙}
+  - {type: substitution, offset: 40, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4468}}
+  - {type: 'kr:newline', offset: 43, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl5}
+  - {type: line-break, offset: 43, content: '', id: KR5h0001_HFL_002-001a06}
+  - {type: 'kr:newline', offset: 60, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl6}
+  - {type: line-break, offset: 60, content: '', id: KR5h0001_HFL_002-001a07}
+  - {type: substitution, offset: 69, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 77, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl7}
+  - {type: line-break, offset: 77, content: '', id: KR5h0001_HFL_002-001a08}
+  - {type: 'kr:newline', offset: 94, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl8}
+  - {type: line-break, offset: 94, content: '', id: KR5h0001_HFL_002-001a09}
+  - {type: variant, offset: 97, length: 1, content: 縁, CK-KZ: 緣}
+  - {type: variant, offset: 97, length: 1, content: 縁, CK-KZ-jye: 緣}
+  - {type: variant, offset: 97, length: 1, content: 縁, YP-C: 緣}
+  - {type: substitution, offset: 97, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 104, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl9}
+  - {type: line-break, offset: 104, content: '', id: KR5h0001_HFL_002-001a10}
+  - {type: variant, offset: 106, length: 1, content: 即, CK-KZ: 卽}
+  - {type: variant, offset: 106, length: 1, content: 即, CK-KZ-jye: 卽}
+  - {type: variant, offset: 106, length: 1, content: 即, YP-C: 卽}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl10}
+  - {type: page-break, offset: 110, content: '', id: KR5h0001_HFL_002-001b, image: hfl/1058/1058-015.png}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl11}
+  - {type: line-break, offset: 110, content: '', id: KR5h0001_HFL_002-001b01}
+  - {type: indent, offset: 110, content: 　　, id: KR5h0001_krp_002-bkkind2}
+  - {type: substitution, offset: 116, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 120, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl12}
+  - {type: line-break, offset: 120, content: '', id: KR5h0001_HFL_002-001b02}
+  - {type: indent, offset: 120, content: 　　, id: KR5h0001_krp_002-bkkind3}
+  - {type: 'kr:newline', offset: 130, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl13}
+  - {type: line-break, offset: 130, content: '', id: KR5h0001_HFL_002-001b03}
+  - {type: indent, offset: 130, content: 　　, id: KR5h0001_krp_002-bkkind4}
+  - {type: variant, offset: 130, length: 5, content: 順行品第四, CK-KZ-jye: ''}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl14}
+  - {type: line-break, offset: 135, content: '', id: KR5h0001_HFL_002-001b04}
+  - {type: 'kr:newline', offset: 152, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl15}
+  - {type: line-break, offset: 152, content: '', id: KR5h0001_HFL_002-001b05}
+  - {type: variant, offset: 157, length: 1, content: 群, CK-KZ: 羣}
+  - {type: variant, offset: 157, length: 1, content: 群, CK-KZ-jye: 羣}
+  - {type: variant, offset: 157, length: 1, content: 群, YP-C: 羣}
+  - {type: substitution, offset: 157, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: variant, offset: 159, length: 1, content: 衆, CK-KZ: 眾}
+  - {type: variant, offset: 159, length: 1, content: 衆, CK-KZ-jye: 眾}
+  - {type: variant, offset: 159, length: 1, content: 衆, YP-C: 眾}
+  - {type: 'kr:newline', offset: 169, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl16}
+  - {type: line-break, offset: 169, content: '', id: KR5h0001_HFL_002-001b06}
+  - {type: 'kr:newline', offset: 186, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl17}
+  - {type: line-break, offset: 186, content: '', id: KR5h0001_HFL_002-001b07}
+  - {type: variant, offset: 187, length: 1, content: 駡, CK-KZ: 罵}
+  - {type: variant, offset: 187, length: 1, content: 駡, CK-KZ-jye: 罵}
+  - {type: variant, offset: 187, length: 1, content: 駡, YP-C: 罵}
+  - {type: substitution, offset: 187, original: 駡, replacement: 罵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3546}}
+  - {type: substitution, offset: 190, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3333}}
+  - {type: variant, offset: 199, length: 1, content: 衍, CK-KZ: 愆}
+  - {type: variant, offset: 199, length: 1, content: 衍, CK-KZ-jye: 愆}
+  - {type: variant, offset: 199, length: 1, content: 衍, YP-C: 愆}
+  - {type: 'kr:newline', offset: 203, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl18}
+  - {type: line-break, offset: 203, content: '', id: KR5h0001_HFL_002-001b08}
+  - {type: page-break, offset: 207, content: '', id: KR5h0001_CK-KZ_01p004b, image: JY019/CK-KZ_JY019_01p004b.png}
+  - {type: variant, offset: 207, length: 138, content: 如是地獄如箭天堂莫近衆生之苦無有出輪從迷至永常沉苦海與我天衆無由得視碧落天外瓊臺紫府流金沙地絶慮之所爾時天尊端嚴自立眉放白光口出異香說逍遥之語五雲碧落談妙法蓮華經時諸天仙衆得聞是經從無量劫曾遇仙道今正是時無憂無惱自在快樂祥雲繚繞一時來迎咸皆歡喜奉辭而退太上中道妙法蓮華經卷之二, YP-C: ''}
+  - {type: variant, offset: 217, length: 1, content: 衆, CK-KZ: 眾}
+  - {type: variant, offset: 217, length: 1, content: 衆, CK-KZ-jye: 眾}
+  - {type: 'kr:newline', offset: 220, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl19}
+  - {type: line-break, offset: 220, content: '', id: KR5h0001_HFL_002-001b09}
+  - {type: variant, offset: 236, length: 1, content: 衆, CK-KZ: 眾}
+  - {type: variant, offset: 236, length: 1, content: 衆, CK-KZ-jye: 眾}
+  - {type: 'kr:newline', offset: 237, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl20}
+  - {type: line-break, offset: 237, content: '', id: KR5h0001_HFL_002-001b10}
+  - {type: variant, offset: 245, length: 1, content: 瓊, CK-KZ: 璚}
+  - {type: variant, offset: 245, length: 1, content: 瓊, CK-KZ-jye: 璚}
+  - {type: variant, offset: 253, length: 1, content: 絶, CK-KZ: 絕}
+  - {type: variant, offset: 253, length: 1, content: 絶, CK-KZ-jye: 絕}
+  - {type: 'kr:newline', offset: 254, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl21}
+  - {type: page-break, offset: 254, content: '', id: KR5h0001_HFL_002-002a, image: hfl/1058/1058-016.png}
+  - {type: 'kr:newline', offset: 254, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl22}
+  - {type: line-break, offset: 254, content: '', id: KR5h0001_HFL_002-002a01}
+  - {type: page-break, offset: 254, content: '', id: KR5h0001_SJB_002-340560a, image: sjb/34/340560a.png}
+  - {type: 'kr:newline', offset: 259, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl23}
+  - {type: line-break, offset: 259, content: '', id: KR5h0001_HFL_002-002a02}
+  - {type: variant, offset: 275, length: 1, content: 遥, CK-KZ: 遙}
+  - {type: variant, offset: 275, length: 1, content: 遥, CK-KZ-jye: 遙}
+  - {type: substitution, offset: 275, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4468}}
+  - {type: 'kr:newline', offset: 276, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl24}
+  - {type: line-break, offset: 276, content: '', id: KR5h0001_HFL_002-002a03}
+  - {type: variant, offset: 292, length: 1, content: 衆, CK-KZ: 眾}
+  - {type: variant, offset: 292, length: 1, content: 衆, CK-KZ-jye: 眾}
+  - {type: 'kr:newline', offset: 293, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl25}
+  - {type: line-break, offset: 293, content: '', id: KR5h0001_HFL_002-002a04}
+  - {type: variant, offset: 300, length: 1, content: 劫, CK-KZ: 刧}
+  - {type: variant, offset: 300, length: 1, content: 劫, CK-KZ-jye: 刧}
+  - {type: 'kr:newline', offset: 310, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl26}
+  - {type: line-break, offset: 310, content: '', id: KR5h0001_HFL_002-002a05}
+  - {type: 'kr:newline', offset: 327, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl27}
+  - {type: line-break, offset: 327, content: '', id: KR5h0001_HFL_002-002a06}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl28}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl29}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl30}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl31}
+  - {type: line-break, offset: 333, content: '', id: KR5h0001_HFL_002-002a07}
+  - {type: variant, offset: 333, length: 12, content: 太上中道妙法蓮華經卷之二, CK-KZ: ''}
+  - {type: variant, offset: 333, length: 12, content: 太上中道妙法蓮華經卷之二, CK-KZ-jye: ''}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl32}
+  - {type: page-break, offset: 345, content: '', id: KR5h0001_HFL_002-002b, image: hfl/1058/1058-017.png}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl33}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl34}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl35}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl36}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl37}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl38}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl39}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl40}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl41}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl42}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR5h0001_krp_002-bkkkrnewl43}
+  back: []
+hash: sha256:23c9a366339fb22a815c2ebc271640ef394fec37c3922e752f74a18e8e8a49a1

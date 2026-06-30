@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5h0001/CK-KZ-jye/v1/juan/6
+seq: 6
+front:
+  text: 天尊歡喜善哉善哉乃有如是千萬億𡻕無復煩惱卽時諸天仙眾各禮謝太上歡喜踊躍恭敬讚嘆稽首而退各於一面受教奉行
+  hash: sha256:f056259274e3bf4b9ac03bd619a3e8ec96decd80181896f7ccd5099f76295a08
+body:
+  text: 爾時元始天尊說往古時諸仙下化諸魔鬼神徧滿天下食噉人民聚集穢污徧滿山川諸仙修鍊皆被所惱腥膻氣盛遂告諸天百千聖眾久修十善咸有神通爲吾剪除天下鬼魔免食人民爾時會中有一眞人名曰太乙稽首白言今正是時久有此意未曾上白天尊願賜無碍斬邪之劍無爲之水剪妖神咒於是天尊卽說咒曰我持無碍咒百鬼盡消磨遠化他方外箇箇腦門破如粉碎砂石莫惱諸仙子莫食諸眾生聞吾一咒語速避遠他方海外無藏處除非地獄間永爲業鬼精不得聞妙經元君勅下鬼不得惱眾生如不依我教頭破作千分永不聞妙經是時諸鬼等卽各現身瞻禮眞人願賜慈悲願聽我語我爲諸鬼所因非造乃往古時或爲生人多不信心輕慢三寶恣行貪慾常行積惡好殺眾生食肉噉血欺慢十善惡口兩舌誹謗聖眞輕辱尊像偷竊供養先嘗眾味令墮鬼趣經千劫中未得輪迥生於人道今遇眞人受元君勅我等觀諸鬼神捨無間業願告眞人爲我等故說此妙法蓮華經卽隨修仙學道同入上眞唯願眞人上白元君爾時元君勅諸鬼王吾聞汝等造業常在人間穢污仙壇食噉腥膻吾令眞人剪除諸鬼遠藏他方令諸鬼捨邪歸正隨吾學道得悟眞人見聖人位習無礙惠當度羣迷除伏惡魔用神通力遶圍天下山林曠野嵓谷深邃靈壇宮觀護持諸仙學道之子汝等鬼王旣受吾勅歸神仙道求學長生是時元君以偈讚曰羣魔歸正道降伏諸邪鬼縱得長生樂逍遙任自然助道千萬劫恆居海上仙夜朝華淸殿朝游五嶽峯袪邪過東海收煙淨世界秉火耀虛靈移山動小功噴氣渾洞谷掩月到蓬宮是時諸鬼王等稽首長跪上白天尊曰我等自從爲鬼以來管制天下諸惡邪神無令侵害人民護諸童子天眾爲我說法名曰妙法蓮華夫學道修眞之子我當助教如有天下人民所獲染病我當衞護諸仙道士轉此妙經病者必得安痊快樂魔鬼不敢來侵惡邪遠離瘴氣收威
+  hash: sha256:dbc2bf03c2381626a1d08902da7f0d440c5678ea18378a1bfc9e3b13f30c72d3
+  markers:
+  - {type: head, offset: 0, content: 報應品第十一, id: KR5h0001_CK-KZ-jye_006-h1, level: 2}
+  - {type: head, offset: 370, content: 化鬼人道品第十二, id: KR5h0001_CK-KZ-jye_006-h2, level: 2}
+metadata:
+  title: 太上中道妙法蓮花經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 03:00:47.367493'
+  source:
+    repository: kanripo
+    path: KR5h0001/KR5h0001_006.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:949f769619849aec4a98711db72eeb4a3b2f9b937640770ecda6985105628415

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5h0001/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上中道妙法蓮花經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 03:00:47.367493'
+  source:
+    repository: kanripo
+    path: KR5h0001/KR5h0001_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:3f54dcd87e8bc6b92802bda77a10783c5563e86da2aa2186457f0a36f82164e0

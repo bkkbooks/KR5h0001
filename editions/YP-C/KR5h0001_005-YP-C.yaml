@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5h0001/YP-C/v1/juan/5
+seq: 5
+front:
+  text: 不免會元君演說微妙語
+  hash: sha256:009197ea3df37479dc6cec86496e3d8a7f5f4fa25853204f2abad88504db8dba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5h0001_YP-C_03diji-08-0009b, image: JY019/03diji-08-0009b.png}
+body:
+  text: 聞道逍遙品黃庭共所宣雨蒙乾地藥漸漸長馨香一聞眞妙道永不値輪迴或大小枝苗羣草百般條一切諸仙子共超苦趣玄能令九幽罪化作上天仙一切諸煩惱悉令眾眞靈九幽品第九爾時元始天尊說下方一切眾生之病䖍請道士於家潔飾宅宇建設壇席嚴持香燭異果名花如法供養轉此妙經一卷二卷乃至七卷卽當病愈無復煩惱自然淸涼快樂無量苦難永除或咒水灑病人身卽得淸涼人或命終卽以諭言令得病人心生捨愛應以所用之物須令師尊恭對三寶前高聲唱言卽當命施令得病人無常如夢免受酸楚如地獄之報此人先世布施分文全收乃至追修無非嚴潔生信敬心不以輕慢三寶聖眞一切虛空出家之道心生歡喜功德全收分明後世地獄畜生因心所作千變萬化或作化生或作胎卵受生受業隨其功德一分不及二分乃至百千萬倍皆不能及如是轉多福報隨故受生受業受皆如是羣化品第十爾時妙行眞人上白天尊曰我當勸化一切眾生速得成仙卽說偈曰讚諸上妙經百寶莊紋綵施諸名菓花伎樂洞章歌持旛復圍遶與多供養心嚴持異寶珍無非獻尊像捨弃所受用郤成解脫心福德超自然如花妙勝忻千聖作此教萬慮亦忘尋諸來天仙眾總持妙法經爲言思愛樂眾生業未盡業盡福還輕永斷輪迴報仙樂自和鳴迎歸九臺中共說長生樂苦惱永無侵碧落眞妙歌仙花共其上妙樂世間稀時復到瑶池煙霞深遠邃寂寞莫陵溪秋風薰夜月綠竹翠紫扉此時心修徹無復更輪迴道路分明在塵世人自迷長游天界外又得朝元君爾時元始天尊欲往諸天爲諸天人說無極妙法蓮華經會中有一眞人名曰流霞上白天尊曰我從往昔以來久乃成道未聞斯經今乃元君說此妙經心生歡喜晝夜思唯頗有眾生多受苦惱不聞妙經何名妙法我當告諸天眾共勸眾生修善男女各令傳徧乃至一卷七卷及千萬卷其福無量無數乃有功德我當流布無令忘失卉木叢林大海山嶽尙有枯竭而此功德無有限量無有休息隨劫更生爲度眾生不入幽㝠爾時
+  hash: sha256:82cdcb18677b84b501079c3ec06cb0b5cf6d8d1db2c1c8b318e2288dcefd15a8
+metadata:
+  title: 太上中道妙法蓮花經
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 03:00:47.367493'
+  source:
+    repository: kanripo
+    path: KR5h0001/KR5h0001_005.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:c4564ea6162a1d8aa9d3f2a1269f8bb7dc88f4662ef55056edb317bcf01f45dc

@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5h0001/CK-KZ/v1/juan/2
+seq: 2
+front:
+  text: 駱駝負重之苦或作蟒蛇積毒之苦或作魚鱉漂淪之苦或作飛禽羅網之苦或作猪狗污賤之苦或作驢騾償債之苦或作牛畜佈種之苦或作賤類勞役之苦仙身諸善男子於我化後謹能受持讀誦此經今對道前自說誓言此經難持若暫持者我則歡喜諸仙亦然如是之人天道所歎是則勇猛是名修眞行慈之行則爲疾得諸仙道果能於來世持念此經是眞神仙住湻善地大道所化能解其義是諸天人世間之眼於恐畏世能廣爲說一切諸仙皆應供養
+  hash: sha256:4061bdf28ca9d35e9948fa06d1ffcd308c80ea542290dc5a6ec4e269e55af101
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5h0001_CK-KZ_01p003b, image: JY019/CK-KZ_JY019_01p003b.png}
+body:
+  text: 諸仙大道品第三爾時諸仙大道及諸仙眾吾於往時求法華經卽心無倦於諸天中常持大道求其逍遙心不退散時有仙人來白我言我有大乘名曰妙法蓮華經若不遺我當爲宣說諸仙大道聞言歡喜輕毁之苦乃至一切諸苦皆從所報種種因緣無有差殊是時大道卽說偈曰所作業因在非爲十種多報來如風疾勸莫向中過順行品第四爾時阿斯仙人勸令我故得無礙慧示我願故使之一切羣迷眾生斷其貪愛除其煩惱邪淫妄語惡口兩舌嗔嫉憎怒毁辱殺生誹謗罵詈偷盗欺凌謀恨奸詐積成愆尤十不善法常行如是地獄如箭天堂莫近眾生之苦無有出輪從迷至永常沉苦海與我天眾無由得視碧落天外璚臺紫府流金沙地絕慮之所爾時天尊端嚴自立眉放白光口出異香說逍遙之語五雲碧落談妙法蓮華經時諸天仙眾得聞是經從無量刧曾遇仙道今正是時無憂無惱自在快樂祥雲繚繞一時來迎咸皆歡喜奉辭而退
+  hash: sha256:a2d8a8d32d71b5c5b58db6e8b4f70d6f027556ab137924cfb156cb95b533f4e9
+metadata:
+  title: 太上中道妙法蓮花經
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 03:00:47.367493'
+  source:
+    repository: kanripo
+    path: KR5h0001/KR5h0001_002.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:e948c2474f7d02578eaec264e75f0aadce480b8601bb033fd707c762d8d77cb3
