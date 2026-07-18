@@ -994,6 +994,7 @@ markers:
   - {type: variant, offset: 1875, length: 13, content: 太上中道妙法蓮華經卷之十終, CK-KZ-jye: ''}
   - {type: variant, offset: 1875, length: 13, content: 太上中道妙法蓮華經卷之十終, YP-C: ''}
   - {type: punctuation, offset: 1887, content: (, id: KR5h0001_krp_010-bkkpn1}
+  - {type: voice, offset: 1887, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1888, content: ), id: KR5h0001_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 1888, content: '
 
@@ -1048,4 +1049,4 @@ markers:
 
       ', id: KR5h0001_krp_010-bkkkrnewl153}
   back: []
-hash: sha256:561bc25c75fc01b04e9a5ca8bc560dd9c32e376827093dd10efb0e294c499b33
+hash: sha256:aa8745d9fab379ed04ff09c3eccdc2fc84053bcab3ab9f5bacc082380f0f9be5
